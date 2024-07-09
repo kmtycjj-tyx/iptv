@@ -1,13 +1,2 @@
-1019k  dak3yy7y.mi4.xyz:8888
-1011k  124.230.56.20:55555
-1006k  w.yao87.com:4022
-1005k  118.255.76.170:8888
-993k  nas.0731wang.com:4022
-988k  175.9.163.177:8989
-987k  o.dsp.mp.mi4.xyz:8888
-986k  yao87.com:4022
-983k  zdgrom5o.mi4.xyz:8888
-975k  www.qhdrive.mi4.xyz:8888
-967k  222.241.146.57:8888
-962k  118.251.61.155:8888
-960k  hgiue6pb.mi4.xyz:8888
+1003k  hn-valve.cn:8888
+806k  w.yao87.com:4022
